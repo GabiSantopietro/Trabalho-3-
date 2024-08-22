@@ -1,5 +1,5 @@
 
-PYTHON
+Python: 
 
 https://replit.com/join/cewsvxthpp-gabisantopietro
 
@@ -13,7 +13,7 @@ https://replit.com/join/ddvotzwpkp-gabisantopietro
 
 ![image](https://github.com/user-attachments/assets/d812f8cc-bc6c-4c8e-806b-c3aa6d182998)
 
-GO 
+GoLang
 
 https://go.dev/play/p/FYjykZ9MxlF
 
