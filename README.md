@@ -20,18 +20,18 @@ https://go.dev/play/p/FYjykZ9MxlF
 
 ![image](https://github.com/user-attachments/assets/cdfd3b24-ff83-47c9-a1c3-06fe3288e4e8)
 
-Java, Python e Go (Golang) são linguagens de programação populares, cada uma com suas próprias características, vantagens e desvantagens
+Java, Python e Go (Golang) são linguagens de programação populares, cada uma com suas próprias características, vantagens e desvantagens.
 
 Python - É uma linguagem de programação orientada a objetos, ou seja, os desenvolvedores se concentram em objetos que têm atributos e comportamentos únicos, e podem ser manipulados em vez de se concentrarem na lógica, possui uma grande variedade de bibliotecas que agilizam o trabalho do programador.
 •	Uma das principais características do Python é que ele não possui os pontos essenciais para Java, como colchetes ou vírgulas. Em vez disso, são usados espaços e recuos (indentação). Além disso, o Python limita todas as linhas a um máximo de 79 caracteres.
 
--Tipagem: Dinâmica e fortemente tipada. Não é necessário declarar o tipo de uma variável explicitamente, e ele pode mudar em tempo de execução. 
+Tipagem: Dinâmica e fortemente tipada. Não é necessário declarar o tipo de uma variável explicitamente, e ele pode mudar em tempo de execução. 
 
- Paradigma: Multi paradigma. Suporta programação orientada a objetos, imperativa, funcional e procedural. 
+Paradigma: Multi paradigma. Suporta programação orientada a objetos, imperativa, funcional e procedural. 
 
 Desempenho: Geralmente mais lento que Java e Go, pois é uma linguagem interpretada. Ideal para desenvolvimento rápido e prototipagem. –
 
- Ecossistema: Extremamente vasto, com bibliotecas para praticamente qualquer tarefa, desde web development até machine learning. Muito usado em ciência de dados, automação, desenvolvimento web. 
+Ecossistema: Extremamente vasto, com bibliotecas para praticamente qualquer tarefa, desde web development até machine learning. Muito usado em ciência de dados, automação, desenvolvimento web. 
 
 Sintaxe: Simples e legível. Python é conhecido por sua clareza, o que facilita a leitura e a manutenção do código. 
 
@@ -60,7 +60,8 @@ Desempenho: Geralmente mais rápido que Python, mas mais lento que Go. Isso se d
 Ecossistema: Tem uma vasta biblioteca padrão e uma grande comunidade. Muito usada em aplicações corporativas, Android, e grandes sistemas. 
 
  
-Golang converte o código em um arquivo binário que pode ser executado em qualquer plataforma. A desvantagem é que os arquivos binários para cada plataforma podem levar algum tempo para serem construídos.
+Golang - converte o código em um arquivo binário que pode ser executado em qualquer plataforma. A desvantagem é que os arquivos binários para cada plataforma podem levar algum tempo para serem construídos.
+
 
 Tipagem: Estática e fortemente tipada. Como Java, exige a declaração de tipos no tempo de compilação. 
 
